@@ -18,4 +18,6 @@ public struct CHFoundations {
 //  public let color = UIColor("#FFCC00")
   
   public let hexColor = UIColor("#FFCC00")
+  
+  public init() { }
 }
